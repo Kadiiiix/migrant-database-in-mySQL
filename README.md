@@ -8,3 +8,5 @@ Each bed in camp is differentiated by its number, the floor it is on and the roo
 Each staff member is recorded with a name (first, middle and last) and a unique ID. The staff that is recorded are cooks, cleaners, managers and janators (where cleaner's assigned floor and manager's degree are recorded). Each camp has many staff members working in it.
 Each supply that comes to the camp (food, clothes etc) has a unique ID, a name and a description. A record of which supply is given to a migrant by staff members is also
 recorded.
+
+Dummy variables are already inputted into the SQL code file.
